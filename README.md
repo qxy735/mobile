@@ -1,2 +1,2 @@
 # mobile
-This is Mobile Application For Jsp
+This is Mobile Application For PHP
